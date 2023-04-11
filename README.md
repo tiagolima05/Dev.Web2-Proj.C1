@@ -1,12 +1,13 @@
-# Arquivo de documentação
+# Documentação
 
 ## Instalações
 
-Instale o typescript:
+### Instale o Typescript:
+
 npm install typescript --save-dev
 
 
-Crie um arquivo tsconfig.json na raiz do seu projeto e configure as opções necessárias para o TypeScript:
+### Crie um arquivo tsconfig.json na raiz do seu projeto e configure as opções necessárias para o TypeScript:
 
 {
   "compilerOptions": {
