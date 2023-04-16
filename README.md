@@ -4,7 +4,7 @@
 
 ### Instale o Typescript:
 
-Use o npm install typescript --save-dev ;
+- Use o npm install typescript --save-dev ;
 
 
 ### Crie um arquivo tsconfig.json na raiz do seu projeto e configure as opções necessárias para o TypeScript (Não se esqueça de identa-lo):
@@ -24,14 +24,14 @@ Use o npm install typescript --save-dev ;
 
 ## Alternativa:
 
-Caso você opitr não instalar o ts-node globalmente, você pode instalá-lo localmente em seu projeto usando o comando npm install --save-dev ts-node.
+- Caso você opitr não instalar o ts-node globalmente, você pode instalá-lo localmente em seu projeto usando o comando npm install --save-dev ts-node.
 
-Em seguida, você precisará modificar o comando npm run dev em seu package.json usando:
+- Em seguida, você precisará modificar o comando npm run dev em seu package.json usando:
 
 "dev": "set NODE_ENV=dev&&nodemon ./src/server.ts",
 
 ## Rodando o projeto:
 
-Para transpilar o projeto, rode o comando tsc ;
+- Para transpilar o projeto, rode o comando tsc ;
 
-Para rodar o projeto como TS, basta executar o comando: npm run dev
+- Para rodar o projeto como TS, basta executar o comando: npm run dev
