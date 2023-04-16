@@ -24,7 +24,7 @@
 
 ## Alternativa:
 
-- Caso você opitr não instalar o ts-node globalmente, você pode instalá-lo localmente em seu projeto usando o comando npm install --save-dev ts-node.
+- Caso você opitr por não instalar o ts-node globalmente, você pode instalá-lo localmente em seu projeto usando o comando npm install --save-dev ts-node.
 
 - Em seguida, você precisará modificar o comando npm run dev em seu package.json usando:
 
