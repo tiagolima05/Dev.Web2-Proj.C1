@@ -30,7 +30,7 @@
 
 "dev": "set NODE_ENV=dev&&nodemon ./src/server.ts",
 
-## Rodando o projeto:
+## Transpilar o projeto:
 
 - Para transpilar o projeto, rode o comando tsc ;
 
