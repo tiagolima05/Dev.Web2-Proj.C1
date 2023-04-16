@@ -34,6 +34,6 @@
 
 - Para transpilar o projeto, rode o comando tsc ;
 
-## Execultar o projeto:
+## Executar o projeto:
 
 - Para rodar o projeto como TS, basta executar o comando: npm run dev
